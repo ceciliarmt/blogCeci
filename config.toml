@@ -1,5 +1,5 @@
 title = "Cecilia Ramos"
-baseURL = "http://localhost:1313/"
+baseURL = "http://ceciliarmt.github.io/"
 theme = "bilberry-hugo-theme"
 
 enableRobotsTXT = true
